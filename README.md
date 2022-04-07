@@ -8,12 +8,12 @@ Se debera tener conocimientos previos de Data Science y Data Engineer.
 
 ### Pre-requisitos 📋
 
-_Versionados 📌_
-_Python 3_
-_Libreria Pandas_
-_SQLite_
-_aplicacion de Expresiones Regulares_
-_ETL_
+-_Versionados 📌_
+-_Python 3_
+-_Libreria Pandas_
+-_SQLite_
+-_aplicacion de Expresiones Regulares_
+-_ETL_
 
 ```
 pip install pandas
